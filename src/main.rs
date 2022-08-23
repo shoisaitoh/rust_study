@@ -1,5 +1,16 @@
+// https://www.rust-lang.org/ja/learn/get-started
+use ferris_says::say;
+use std::io::{stdout, BufWriter};
+
 fn main() {
-    for n in 0.. 10 {
-        println!("Hello, world!");
-    }
+    let stdout = stdout();
+    let message = String::from("Hello fellow Rustaceans!");
+    let width = message.chars().count();
+
+    let mut writer = BufWriter::new(stdout.lock());
+    say(message.as_bytes(), width, &mut writer).unwrap();
+
+    //for n in 0.. 10 {
+    //    println!("Hello, world!");
+    //}
 }
