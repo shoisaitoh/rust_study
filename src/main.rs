@@ -6,11 +6,11 @@ fn main() {
     let stdout = stdout();
     let message = String::from("Hello fellow Rustaceans!");
     let width = message.chars().count();
-
+    
     let mut writer = BufWriter::new(stdout.lock());
-    say(message.as_bytes(), width, &mut writer).unwrap();
+    say(&message, width, &mut writer).unwrap();
 
-    //for n in 0.. 10 {
-    //    println!("Hello, world!");
-    //}
+    for n in 0.. 10 {
+        println!("Hello, World!");
+    }
 }
