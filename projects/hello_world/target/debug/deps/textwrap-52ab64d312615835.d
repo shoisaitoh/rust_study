@@ -1,9 +1,0 @@
-/home/saitoh/workspaces/rust_study/target/debug/deps/libtextwrap-52ab64d312615835.rmeta: /home/saitoh/.asdf/installs/rust/1.85.1/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.13.4/src/lib.rs /home/saitoh/.asdf/installs/rust/1.85.1/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.13.4/src/indentation.rs /home/saitoh/.asdf/installs/rust/1.85.1/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.13.4/src/splitting.rs /home/saitoh/.asdf/installs/rust/1.85.1/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.13.4/src/core.rs /home/saitoh/.asdf/installs/rust/1.85.1/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.13.4/src/core/optimal_fit.rs
-
-/home/saitoh/workspaces/rust_study/target/debug/deps/textwrap-52ab64d312615835.d: /home/saitoh/.asdf/installs/rust/1.85.1/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.13.4/src/lib.rs /home/saitoh/.asdf/installs/rust/1.85.1/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.13.4/src/indentation.rs /home/saitoh/.asdf/installs/rust/1.85.1/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.13.4/src/splitting.rs /home/saitoh/.asdf/installs/rust/1.85.1/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.13.4/src/core.rs /home/saitoh/.asdf/installs/rust/1.85.1/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.13.4/src/core/optimal_fit.rs
-
-/home/saitoh/.asdf/installs/rust/1.85.1/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.13.4/src/lib.rs:
-/home/saitoh/.asdf/installs/rust/1.85.1/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.13.4/src/indentation.rs:
-/home/saitoh/.asdf/installs/rust/1.85.1/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.13.4/src/splitting.rs:
-/home/saitoh/.asdf/installs/rust/1.85.1/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.13.4/src/core.rs:
-/home/saitoh/.asdf/installs/rust/1.85.1/registry/src/index.crates.io-1949cf8c6b5b557f/textwrap-0.13.4/src/core/optimal_fit.rs:
