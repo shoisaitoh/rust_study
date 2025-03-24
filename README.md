@@ -1,5 +1,9 @@
 # RUST_STUDY
 
+## 概要
+
+- Rust言語を学習するためのリポジトリです。
+
 ## version
 
 ```bash
