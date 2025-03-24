@@ -10,7 +10,9 @@ fn main() {
     let mut writer = BufWriter::new(stdout.lock());
     say(&message, width, &mut writer).unwrap();
 
-    for n in 0.. 10 {
+    // loopでアンダーバーをつけろって"cargo check"で言われたんだけど
+    // これはいったい何？
+    for _n in 0.. 10 {
         println!("Hello, World!");
     }
 }
