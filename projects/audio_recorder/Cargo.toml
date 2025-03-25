@@ -1,0 +1,11 @@
+[package]
+name = "audio_recorder"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.24.1"        # GUIフレームワーク
+cpal = "0.15.2"         # オーディオ処理ライブラリ
+hound = "3.5.1"         # WAVファイル操作ライブラリ
+ringbuf = "0.3.3"       # リングバッファ実装
+anyhow = "1.0.75"       # エラーハンドリングライブラリ
