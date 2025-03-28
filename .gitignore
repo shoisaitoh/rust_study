@@ -2,4 +2,5 @@ projects/hello_world/target
 projects/variables/target
 projects/guessing_game/target
 projects/audio_recorder/target
+projects/stopwatch/target
 *.wav
